@@ -1,0 +1,14 @@
+@import "react-alice-carousel/lib/alice-carousel.css";
+
+.actorslItem {
+    display: flex;
+    flex-direction: column;
+    object-fit: contain;
+    padding: 10px;
+}
+
+.actorsItem_img {
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+

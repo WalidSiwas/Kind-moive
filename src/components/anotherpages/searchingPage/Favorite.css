@@ -1,0 +1,21 @@
+.overlay {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    transition: 0.5s ease;
+    opacity: 0;
+    bottom: 0;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 12px;
+  }
+  
+  .scrolls:hover .overlay {
+    opacity: 1;
+  }
+
+
+  
+  
+  
