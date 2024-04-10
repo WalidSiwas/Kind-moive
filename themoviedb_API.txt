@@ -1,0 +1,9 @@
+https://www.themoviedb.org/login?to=read_me&redirect_uri=/docs
+
+https://www.themoviedb.org/settings/api/details
+
+API Key
+df95510a5bd1e815df0818c94edb82a6
+
+API Read Access Token
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZjk1NTEwYTViZDFlODE1ZGYwODE4Yzk0ZWRiODJhNiIsInN1YiI6IjY1MzkyNTVhMGZiMTdmMDExYjE0MTM2NiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.BWVdkjTkIWiSRHuiWyUAqVWm3j269zBos_J3XYmLUUw
